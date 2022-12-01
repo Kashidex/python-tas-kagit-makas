@@ -38,7 +38,7 @@ while durum:
    print("Rakibin Seçimi: Kağıt");
    print("Senin Seçimin: Taş");
    print("Sonuç : Kaybettin");
- elif secim == "2" and botsecim == "3":
+ elif secim == "2" and botsecim == 3:
    print("Rakibin Seçimi: Makas");
    print("Senin Seçimin: Kağıt");
    print("Sonuç: Kaybettin");
